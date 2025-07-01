@@ -1,6 +1,7 @@
-# Erda Link WebGL Build
+# Erda Link Simulator WebGL Build
 
 This is the WebGL Build of the Erda Link Simulator found [here](https://github.com/PhantasmicSky/Erda-Link-Simulator).
+This is a simulator to the Erda Link System found in Global Maplestory's Release for the Sia Class.
 
 ## Features
 * Allows users to simulate filling up their Erda Link board
