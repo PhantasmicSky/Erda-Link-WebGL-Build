@@ -2,6 +2,9 @@
 
 This is the WebGL Build of the Erda Link Simulator found [here](https://github.com/PhantasmicSky/Erda-Link-Simulator).
 
+## Latest Update [6 February, 2026]
+* Sia's Ascent is now available.
+
 ## Features
 * Allows users to simulate filling up their Erda Link board
 * Allows users to calculate how many Sol Erdas and Sol Erda Fragments they would need to finish a chosen selection
@@ -20,11 +23,11 @@ The Simulator has 2 modes, <b>Link Mode</b> and <b>Free Calc Mode</b>. Press the
 * If you right click on a currently active stone that is also unlocked, the stone's level will go down.
 
 #### Known Issue in Link Mode
-* Setting an early stone back to Lv.0 while having a very far stone activated/leveled might cause the very far stonee to remain active even though it shouldn't as the prerequisite stones haven't been activated. I honestly don't know how best to check this. I am just bad at programming those Q_Q.
+* Setting an early stone back to Lv.0 while having a very far stone activated/leveled might cause the very far stones to remain active even though it shouldn't as the prerequisite stones haven't been activated. I honestly don't know how best to check this. I am just bad at programming those Q_Q.
 
 ### Free Calc Mode
 * All stones can be selected regardless if the prerequisite stones are locked. This is for people who just need to know how much erda they would need.
-* A single left click (there is no active state) will include the stonee in the computation \[Indicated by a yellow bar below the icon\].
+* A single left click (there is no active state) will include the stone in the computation \[Indicated by a yellow bar below the icon\].
 * A single right click removes the stone from the computation \[Yellow bar disappears\]
 * If a stone has a max level greater than 1, you can click the yellow bar and set the starting and ending level you would want to consider the cost for. (ex. You just want to get the cost to get Sol Janus from Lv. 17 to Lv. 24). The yellow bar contains the current level considerations for the stone. (ex. seeing a "2 > 7" means that only the cost to get from Lv.2 to Lv.7 is considered)
 
