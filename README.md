@@ -2,8 +2,9 @@
 
 This is the WebGL Build of the Erda Link Simulator found [here](https://github.com/PhantasmicSky/Erda-Link-Simulator).
 
-## Latest Update [6 February, 2026]
-* Sia's Ascent is now available.
+## Latest Update [11 June, 2026]
+* Erel is now available.
+* Erda Link has been overhauled to reflect the changes due to moving Sol Janus to the center of the board.
 
 ## Features
 * Allows users to simulate filling up their Erda Link board
